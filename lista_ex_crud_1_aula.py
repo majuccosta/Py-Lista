@@ -1,8 +1,4 @@
-"""                 Comentários de várias linhas.
-
-  CEUB  -  FATECS  -  BCC  -  ADS  -  Programação  -  Prof. Barbosa
-ctlr<d>, duplica linha. ctrl<y>, apaga linha. ctrl</>, comenta linha.
-
+"""
 - O que significa CRUD?
 
 - CRUD (acrônimo do inglês Create, Read, Update and Delete) são as
