@@ -1,8 +1,4 @@
-"""                 Comentários de várias linhas.
-
-  CEUB  -  FATECS  -  BCC  -  ADS  -  Programação  -  Prof. Barbosa
-ctlr<d>, duplica linha. ctrl<y>, apaga linha. ctrl</>, comenta linha.
-
+"""                
 Implemente:
 1- uma lista com valores naturais até 20, use list(range(...))
 2- uma lista com valores naturais até 20, use list(range(...)) com
