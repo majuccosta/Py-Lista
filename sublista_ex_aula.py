@@ -20,7 +20,7 @@ Implemente:
 13- uma sublista com os meses do primeiro semestre
 14- Uma sublista com os meses do segundo trimestre
 15- Uma sublista com os meses do quarto trimestre com índices positivos
-16- Uma sublista com os meses do quarto trimestre com índices negativos """
+16- Uma sublista com os meses do quarto trimestre com índices negativos """ 
 numeros = list(range(0, 21, 1))         # 1
 print(numeros)
 numeros = list(range(21))               # 2
