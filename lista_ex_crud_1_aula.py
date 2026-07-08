@@ -14,6 +14,7 @@
   update e
   delete.
   Obs.: neste exercício, use nomes de pessoas.
+  
 1- A função main gerencia o programa usando uma estrutura de repetição,
   ou seja, todas as funções serão chamadas da função main.
 
@@ -32,9 +33,6 @@
   atualizar (índice e o novo nome) e substituir (alterar) um item da lista.
 6- A função delete não recebe nada e não retorna nada. Lê o item (nome) que será
   excluído da lista.
-
-Prof. Barbosa
-
 """
 
 
